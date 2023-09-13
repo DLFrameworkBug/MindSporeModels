@@ -1,0 +1,14 @@
+operator_name, count, status
+onnx::Transpose, 2, Supported
+onnx::Conv, 120, Supported
+onnx::Relu, 121, Supported
+onnx::Pad, 1, Supported
+onnx::MaxPool, 1, Supported
+onnx::BatchNormalization, 62, Supported
+onnx::Concat, 58, Supported
+onnx::AveragePool, 3, Supported
+onnx::GlobalAveragePool, 1, Supported
+onnx::Reshape, 1, Supported
+onnx::MatMul, 1, Supported
+onnx::Add, 1, Supported
+onnx::Softmax, 1, Supported
