@@ -1,0 +1,10 @@
+operator_name, count, status
+onnx::Transpose, 10, Supported
+onnx::Conv, 14, Supported
+onnx::LeakyRelu, 14, Supported
+onnx::Concat, 3, Supported
+onnx::BatchNormalization, 2, Supported
+onnx::Flatten, 1, Supported
+onnx::MatMul, 1, Supported
+onnx::Add, 1, Supported
+onnx::Softmax, 1, Supported
